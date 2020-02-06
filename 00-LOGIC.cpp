@@ -14,7 +14,7 @@ int main(){
 						    else
  						   cout<<"num1 and num2, one of them is not greater than and equal to 40"<<endl;
  						   
- 						   if(num1>=40||num2>=40)
+ 			 if(num1>=40||num2>=40)
  						   cout<<"num1 and num2,one of them is greater than or equal to 40"<<endl;
 						    else
  						   cout<<"num1 and num2, one of them is not greater or and equal to 40"<<endl;
